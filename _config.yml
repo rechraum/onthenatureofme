@@ -31,7 +31,7 @@ github_username:  jekyll
 #theme: minima
 #remote_theme: jekyll/minima
 #theme: jekyll-theme-tactile
-remote_theme: pages-themes/midnight
+remote_theme: samarsault/texture
 #theme: jekyll-theme-tactile
 #remote_theme: jekyll/tactile
 plugins:
