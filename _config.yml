@@ -33,7 +33,7 @@ repository: rechraum.github.io/onthenatureofme
 #remote_theme: jekyll/minima
 theme: jekyll-theme-tactile
 #remote_theme: samarsault/texture
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+#remote_theme: "mmistakes/so-simple-theme@3.2.0"
 #theme: jekyll-theme-tactile
 #remote_theme: jekyll/tactile
 plugins:
